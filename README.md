@@ -71,7 +71,7 @@ It covers ETL, data cleaning, visualization, and machine learning with Random Fo
 
 ## 👨‍💻 Author
 
-**Aditya Sharma**  
+**Jitender Kumar**  
 B.Tech CSE | Data Analytics Enthusiast | Aspiring Data Analyst  
 
 ---
